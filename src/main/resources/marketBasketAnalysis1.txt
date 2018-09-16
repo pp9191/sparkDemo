@@ -1,0 +1,7 @@
+transaction1:crackers,icecream,coke,apple
+transaction2:chicken,pizza,coke,bread
+transaction3:baguette,soda,shampoo,crackers,pepsi
+transaction4:baguette,cream cheese,diapers,milk
+transaction5:chicken,cream cheese,coke
+transaction6:bread,shampoo,cheese,pepsi
+transaction7:cream cheese,bread,milk

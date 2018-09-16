@@ -1,0 +1,5 @@
+U1	UT
+U2	GA
+U3	CA
+U4	CA
+U5	GA
